@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/navBar_home"
+        android:icon="@drawable/ic_home"/>
+    <item android:title="BuildRecipe"
+        android:icon="@drawable/ic_food_bank"
+        android:id="@+id/navBar_recipe_builder"/>
+    <item android:title="SearchRecipe"
+        android:icon="@drawable/ic_search"
+        android:id="@+id/navBar_search"/>
+</menu>

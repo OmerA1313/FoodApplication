@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/java/excluded/content_recipe_info2.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/drawable/ic_link.xml" value="0.2415" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/drawable/ic_play.xml" value="0.2415" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1392235609103079" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/ListItem.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/ListViewItem.xml" value="0.41702867072111205" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/activity_info.xml" value="0.2796875" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/activity_random_recipes.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/activity_recipe_info.xml" value="0.3908382066276803" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/activity_recipe_info2.xml" value="0.264" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/fragment_build_recipe.xml" value="0.2" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/fragment_home.xml" value="0.32518115942028986" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/ingredient_in_list.xml" value="0.264" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/list_random_recipes.xml" value="0.264" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/random_recipes_recycler.xml" value="0.1" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/searchbar.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/layout/simple_list_item.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/oatar/AndroidStudioProjects/FoodApplication/app/src/main/res/menu/buttom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
